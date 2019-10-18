@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "chef_type": "environment",
+    "json_class": "Chef::Environment",
+    "default_attributes": {
+    },
+    "description": "manage Test environment",
+    "cookbook_versions": {
+	  "apache": "= 0.4.0"
+    }
+}
