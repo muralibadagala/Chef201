@@ -2,9 +2,9 @@ name 'apache'
 maintainer 'Murali Mohan Badagala'
 maintainer_email 'badagalamurali@gmail.com'
 license 'All Rights Reserved'
-description 'Installs/Configures apache'
-long_description 'Installs/Configures apache'
-version '0.1.0'
+description 'Using attributes'
+long_description 'using attributes and display node information'
+version '0.2.0'
 chef_version '>= 14.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
